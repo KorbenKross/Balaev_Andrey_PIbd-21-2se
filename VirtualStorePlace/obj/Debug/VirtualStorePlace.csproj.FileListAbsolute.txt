@@ -1,8 +1,0 @@
-C:\Users\Kross\source\repos\VisualStore\VirtualStorePlace\obj\Debug\VirtualStorePlace.csprojResolveAssemblyReference.cache
-C:\Users\Kross\source\repos\VisualStore\VirtualStorePlace\obj\Debug\VirtualStorePlace.csproj.CoreCompileInputs.cache
-C:\Users\Kross\source\repos\VisualStore\VirtualStorePlace\bin\Debug\VirtualStorePlace.dll
-C:\Users\Kross\source\repos\VisualStore\VirtualStorePlace\bin\Debug\VirtualStorePlace.pdb
-C:\Users\Kross\source\repos\VisualStore\VirtualStorePlace\bin\Debug\VisualStore.dll
-C:\Users\Kross\source\repos\VisualStore\VirtualStorePlace\bin\Debug\VisualStore.pdb
-C:\Users\Kross\source\repos\VisualStore\VirtualStorePlace\obj\Debug\VirtualStorePlace.dll
-C:\Users\Kross\source\repos\VisualStore\VirtualStorePlace\obj\Debug\VirtualStorePlace.pdb
